@@ -29,7 +29,7 @@ function removeAdmin() {
 // 4. Concatenate Array
 function concatenateArray() {
   let New_array = [
-    { name: "Aman", age: 30, profession: "developer" },
+    { name: "Rajat", age: 30, profession: "developer" },
     { name: "Alex", age: 22, profession: "developer" }
   ];
   for (let i = 0; i < New_array.length; i++) {
